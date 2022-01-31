@@ -11,6 +11,6 @@
     "express": "^4.17.2"
   },
   "devDependencies": {
-    "warp": "^4.0.18"
+    "warp": "^4.0.19"
   }
 }
