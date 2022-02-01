@@ -1,5 +1,5 @@
 # Server
 
-This is a project used in the getting started where you'll learn how to create and deploy a basic Express.js http Node.js server you can call from http.
+This is a project used in the getting started where you'll learn how to create and deploy a basic Node.js server you can call from HTTP.
 
-See [Getting started for server](https://docs.scaledynamics.com/docs/server-getting-started).
+See [Getting started for server](https://docs.scaledynamics.com/docs/getting-started/server).
